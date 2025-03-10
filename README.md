@@ -1,8 +1,6 @@
 - 👋 Hi, I’m xmaxlad
-- 👀 I’m interested in blockchain, cryptography and startups.
-- 🌱 I’m currently learning cryptography.
-- 💞️ I’m looking to collaborate on opensource projects.
-- 📫 How to reach me mail at kamalonlywork@gmail.com
+- 👀 I’m a frontend engineer with experience with React, Next, Redux and and Tailwind.
+- 📫 How to reach me mail at kamal20117065@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can cook.
 
